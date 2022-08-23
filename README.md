@@ -2,7 +2,7 @@
 - 👀 I’m interested in AI and Machine Learning
 - 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on Big data and Machine Learning in Finance
-- 📫 How to reach me at my email.
+- 📫 I am reachable at nravika@gmail.com
 
 <!---
 ravikanagpal/ravikanagpal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
